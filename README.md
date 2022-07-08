@@ -1,2 +1,2 @@
 # LearningGit
-This is repo for UECS2364 Practical 3
+This is a repo for UECS2364 Practical 3
